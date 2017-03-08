@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-RRRRRRRRRRRR
-add a text
-=======
-RRRRRRRRRRRR
->>>>>>> master
+git learn
